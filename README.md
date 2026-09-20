@@ -1,38 +1,31 @@
-## Thainá
+README
+#  💻Thainá Guimarães
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor de Software`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
+Estudante de **Ciência da Computação**, com experiência e interesse em **Qualidade de Software (QA)** e desenvolvimento de software.
+### 🛠️ Tecnologias e Habilidades
+
+- **Linguagens:** C, Java, Python, JavaScript, HTML e CSS.
+- **Frameworks:** Spring Boot, Django.
+- **Banco de Dados:** SQL, MySQL e PostgreSQL.
+- **QA e Testes:** Cypress, Selenium, Playwright e Postman.
+
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/anthonylimma/">
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Anthony%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c94" />
+  </a>
+  <a href="https://www.instagram.com/anthonylimaj/">
+    <img alt="Instagram" title="Meu Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-@anthonylimaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=c13584" />
+  </a>
+  <a href="mailto:Limaanthony74@gmail.com">
+    <img alt="Gmail" title="Me envie um e-mail" src="https://custom-icon-badges.demolab.com/badge/Gmail-Limaanthony74-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=b23121" />
+  </a>
+  <a href="https://github.com/Anthonylimma?tab=repositories">
+    <img alt="Repositórios" title="Meus repositórios no GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-Repositórios-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba" />
+  </a>
 </p>
 
 ---
@@ -73,68 +66,54 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Cypress" 
+    title="Cypress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
+/>
+  <img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Playwright" 
+    title="Playwright"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="Git" 
@@ -158,19 +137,18 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Anthonylimma&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    align="left"
+    alt="Linguagens"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonylimma&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
