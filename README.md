@@ -14,20 +14,16 @@ Estudante de **Ciência da Computação**, com experiência e interesse em **Qua
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anthonylimma/">
-    <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Anthony%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c94" />
+  <a href="https://www.linkedin.com/in/thain%C3%A1-guimar%C3%A3es-santos-580aaa33a/">
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/anthonylimaj/">
-    <img alt="Instagram" title="Meu Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-@anthonylimaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=c13584" />
+  <a href="mailto:guimaraesthaina01@gmail.com">
+    <img alt="Gmail" title="Me envie um e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:Limaanthony74@gmail.com">
-    <img alt="Gmail" title="Me envie um e-mail" src="https://custom-icon-badges.demolab.com/badge/Gmail-Limaanthony74-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=b23121" />
-  </a>
-  <a href="https://github.com/Anthonylimma?tab=repositories">
-    <img alt="Repositórios" title="Meus repositórios no GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-Repositórios-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba" />
+  <a href="https://github.com/Thaina-0">
+    <img alt="Repositórios" title="Meus repositórios no GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
