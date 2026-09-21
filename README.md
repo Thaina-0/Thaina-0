@@ -44,8 +44,6 @@ Estudante de **Ciência da Computação**, com experiência e interesse em **Qua
 
 <br/>
 
-### 🐍 Snake Animation
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thaina-0/Thaina-0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thaina-0/Thaina-0/output/github-contribution-grid-snake.svg">
