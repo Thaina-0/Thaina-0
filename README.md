@@ -7,7 +7,7 @@ Estudante de **Ciência da Computação**, com experiência e interesse em **Qua
 ### 🛠️ Tecnologias e Habilidades
 
 - **Linguagens:** C, Assembly, Java, Python, JavaScript, HTML, CSS e Processing.
-- **Frameworks, Nuvem & Ferramentas:** Spring Boot, Django, Azure, SQL, LaTeX e MashLab.
+- **Frameworks, Nuvem & Ferramentas:** Spring Boot, Django, Azure, LaTeX e MashLab.
 - **Banco de Dados:** SQL, MySQL e PostgreSQL.
 - **QA e Testes:** Cypress, Selenium, Playwright e Postman.
 
@@ -34,6 +34,8 @@ Estudante de **Ciência da Computação**, com experiência e interesse em **Qua
   <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Processing" title="Processing" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" />
   <img alt="LaTeX" title="LaTeX" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
   <img alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
